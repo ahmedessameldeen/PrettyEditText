@@ -1,0 +1,4 @@
+include ':prettyedittext'
+if (!System.env.JITPACK) {
+    include ':app'
+}

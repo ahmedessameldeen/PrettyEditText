@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PrettyHintText">
+        <attr name="cardCollapsedHeight" format="dimension"/>
+        <attr name="textBoxColor" format="color"/>
+        <attr name="android:hint" format="string"/>
+        <attr name="floatingLabelColor" format="color"/>
+        <attr name="borderColor" format="color"/>
+        <attr name="image" format="reference"/>
+        <attr name="imageColor" format="color"/>
+        <attr name="readOnly" format="boolean"/>
+        <attr name="animationDurationMs" format="integer"/>
+        <attr name="android:text" />
+        <attr name="android:textColor" />
+        <attr name="android:textSize" />
+        <attr name="android:inputType" />
+        <attr name="android:maxLines" />
+    </declare-styleable>
+</resources>
